@@ -51,7 +51,7 @@ A modern web application for managing libraries, books, borrowers, and loans.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/library-manager.git
+git clone https://github.com/massebgouha-dev/library-manager.git
 ```
 
 ### 2. Import the database
@@ -100,5 +100,5 @@ library_manager/
 
 **Massebgouha Ahmednah**
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/massebgouha-dev
 - Email: massimed89@gmail.com
